@@ -20,8 +20,8 @@ It demonstrates practical data preparation and visualization techniques using **
   - netflix_titles_cleaned.ipynb (Jupyter notebook with code & analysis)
   - netflix_titles_cleaned.csv (cleaned data)
   - outputs (Folder containing plots)
-    - top_countries_2025-11-09.png
-    - top_genres_2025-11-09.png
+    - netflix_top_countries.png
+    - netflix_top_genres.png
   - README.md (Project documentation)
 
 ---
