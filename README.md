@@ -43,8 +43,8 @@ It demonstrates practical data preparation and visualization techniques using **
 ---
 
 ## Outputs
-- **Cleaned Dataset:** `outputs/cleaned_netflix_2025-11-09.csv`  
+- **Cleaned Dataset:** `netflix_titles_cleaned.csv`  
 - **Visualizations:**  
-  - Top content-producing countries  
-  - Most common genres  
+  - Top content-producing countries: netflix_top_countries.png 
+  - Most common genres: netflix_top_genres.png  
 
